@@ -1,0 +1,376 @@
+order_id,customer_id,order_date,order_status,shipping_address,city,state,zip_code,payment_method,total_amount
+1,4334,2025-08-09,Cancelled,67973 David Port Suite 384,New Sherimouth,SC,87819,Online Transfer,3782.8900000000003
+2,1066,2025-07-21,Processing,39066 Kevin Villages,North Mark,AZ,94404,UPI,2072.44
+3,14759,2025-02-13,Cancelled,39662 Hays Road,Andrewborough,ME,89968,UPI,3774.63
+4,1202,2025-02-24,Shipped,6189 Allen Views Apt. 742,Port Timothy,VA,29619,Debit Card,2297.25
+5,18176,2025-07-18,Shipped,66857 Austin Mews Suite 867,Collinsburgh,AR,10078,Online Transfer,682.1
+6,22417,2025-01-22,Delivered,1843 Jamie Mission,New Lindsay,NE,14643,Cash,866.58
+7,18667,2025-07-08,Delivered,6326 Quinn Ranch,Richardchester,FL,92211,Cash,3614.89
+8,6587,2025-03-10,Cancelled,04634 Allen Estates Suite 945,Elizabethland,MD,06036,UPI,1654.42
+9,2602,2025-06-24,Pending,027 Galvan Ways,Pinedaborough,LA,24906,Online Transfer,2547.61
+10,24707,2025-04-02,Shipped,4978 Mark Villages Suite 454,Fernandostad,PR,37728,UPI,491.99
+11,16969,2025-02-19,Pending,1347 Gonzalez Way,North Shelly,IL,64607,Cash,2360.2599999999998
+12,17474,2025-07-08,Delivered,022 Kelly Alley Apt. 693,East Robinhaven,WV,01767,Online Transfer,2734.81
+13,13995,2025-07-11,Pending,085 William Divide,South Mark,NE,67462,Debit Card,2765.65
+14,15343,2025-08-16,Cancelled,377 Adams Run,Codyborough,VT,50780,Debit Card,2404.51
+15,19867,2025-06-03,Pending,5126 Sims Point,East Anitahaven,OH,21401,UPI,4804.18
+16,11336,2025-07-26,Cancelled,42887 Moore Summit Suite 407,South Rachel,ID,58183,Debit Card,2450.64
+17,6675,2025-04-06,Processing,1791 Thomas Street,Richardland,AS,97262,Cash,227.70000000000002
+18,7641,2025-06-03,Shipped,728 Peters Common,West Laura,WA,06239,UPI,568.6700000000001
+19,12816,2025-01-12,Processing,7807 Monica Courts Suite 909,Huffmantown,NJ,44006,Debit Card,229.08
+20,10944,2025-03-31,Shipped,301 Joseph Rapid Suite 749,Port Andrea,CT,40069,Online Transfer,2543.33
+21,1790,2025-01-14,Pending,35172 Bowers Crossing Suite 469,East Anthonychester,MT,55397,Cash,2357.56
+22,11304,2025-05-09,Cancelled,59814 Nelson Pass Suite 189,Kennethborough,MT,08338,UPI,2450.91
+23,8398,2025-06-23,Pending,922 Sanchez Springs,Brucefurt,IN,46710,Credit Card,3256.85
+24,11833,2025-05-11,Cancelled,8729 West Squares,Veronicaberg,WY,81583,Credit Card,2881.18
+25,18387,2025-02-27,Cancelled,310 Travis Wall,Robertofurt,IN,08316,Online Transfer,2030.6399999999999
+26,18299,2025-01-19,Cancelled,6921 Meyer Route,Lake Gabriel,TN,19352,Credit Card,774.79
+27,23244,2025-07-28,Processing,02861 Bridges Street Apt. 665,New Thomas,PW,97646,UPI,2878.12
+28,1815,2025-04-30,Shipped,2585 Nelson Stravenue Suite 347,New Susan,AS,07622,UPI,1646.9500000000003
+29,21561,2025-08-14,Cancelled,27404 Maxwell Stravenue,Pittsside,ME,60480,Online Transfer,1032.17
+30,12549,2025-02-11,Pending,7662 Tamara Bridge,Henryfort,IL,07228,Credit Card,4687.7
+31,910,2025-06-10,Cancelled,236 Freeman Wells,Lake Philip,AS,07826,Cash,2147.88
+32,13279,2025-08-09,Shipped,5026 Tyler Union Suite 720,South Sergioville,WA,45121,Credit Card,3398.16
+33,22740,2025-02-18,Processing,07954 Anthony Mountains Apt. 241,Duncanburgh,WY,25244,Debit Card,1753.29
+34,15200,2025-04-25,Pending,93563 Dixon Brooks Suite 926,West Jennifer,PR,24823,Cash,2137.96
+35,13076,2025-03-29,Cancelled,446 Craig Key,West Thomasstad,IL,24127,Credit Card,3490.67
+36,9338,2025-07-08,Processing,2094 Heather Pines,South Nicolefurt,MT,25698,UPI,3643.12
+37,18468,2025-06-12,Cancelled,0762 Obrien Knolls Suite 802,East Danielleville,SC,54345,Debit Card,2485.12
+38,22379,2025-03-22,Pending,6181 Miller Wells Apt. 642,Ricardoside,VA,70525,Online Transfer,1996.77
+39,217,2025-01-14,Pending,5876 Miller Lake Suite 198,Laurenmouth,AS,31519,Credit Card,1710.87
+40,17875,2025-02-19,Pending,73439 Patricia Ramp,Petersonberg,HI,47568,UPI,1888.2
+41,12143,2025-03-17,Delivered,346 Thomas Extensions,North Lisa,IN,80465,Cash,1969.47
+42,2877,2025-07-18,Cancelled,007 Brown Plaza,North Marie,MP,00528,Debit Card,1820.26
+43,14379,2025-03-12,Processing,49008 Lane Ford,Jimmyfurt,HI,23101,Credit Card,3434.3
+44,22360,2025-02-02,Shipped,37692 Lewis Canyon Suite 732,North Kellystad,AS,50517,Debit Card,1998.0500000000002
+45,2914,2025-06-22,Cancelled,3696 Ellen Oval,Port John,NH,35894,Debit Card,996.3
+46,11573,2025-05-05,Processing,6189 Sarah Haven Suite 424,Port Barbaraberg,MD,04901,Online Transfer,2145.99
+47,16306,2025-04-28,Delivered,780 Schmidt Ferry Apt. 389,Chavezview,IN,05908,Debit Card,3064.1699999999996
+48,8782,2025-07-06,Delivered,046 Laura Dam,Grimeschester,TX,13528,Debit Card,1552.6
+49,23974,2025-04-25,Cancelled,6719 Melissa Orchard Suite 058,Port Hannahmouth,UT,97190,Online Transfer,2968.45
+50,10232,2025-06-03,Pending,9016 Kimberly Ways,West Toddfurt,KS,11248,Cash,2193.83
+51,5235,2025-02-12,Delivered,8685 Joseph Bypass Apt. 674,Martinezland,NV,49055,Debit Card,1809.8799999999999
+52,11713,2025-01-01,Shipped,24187 Norris Oval,Kristaland,KS,67814,UPI,2008.9099999999999
+53,19630,2025-04-20,Pending,38443 Cook Gateway Suite 541,South Mark,IN,32888,Debit Card,3445.1800000000003
+54,16800,2025-05-19,Shipped,98214 Harrison Corners Apt. 854,Lake Marisabury,WI,01023,UPI,2328.28
+55,800,2025-05-18,Processing,8831 Charles Crest,Spencerborough,OR,19884,Credit Card,1933.95
+56,6402,2025-01-29,Shipped,334 Donna Forest Apt. 236,Lake Sabrinaport,FM,01012,Online Transfer,3999.49
+57,3681,2025-05-28,Delivered,423 Tyler Knolls Suite 802,Johnsontown,VT,24097,Cash,351.01
+58,22333,2025-08-16,Pending,0037 Jesus Station Suite 570,Donaldsonfort,MA,25644,Online Transfer,1484.1599999999999
+59,10200,2025-01-26,Processing,87697 Hull Mountain Suite 208,Lake Julie,NE,29241,Online Transfer,1164.1100000000001
+60,1679,2025-04-18,Shipped,49260 Anderson Wells Apt. 105,Richardfort,TN,39081,Cash,1134.71
+61,8230,2025-04-03,Delivered,8542 Dennis Point Apt. 834,Maciasfurt,WV,46225,Debit Card,4347.48
+62,12339,2025-02-21,Delivered,174 David Locks Suite 102,East Megan,NJ,44715,Credit Card,3577.92
+63,9928,2025-01-17,Cancelled,5770 Hester Lakes Suite 176,Lake Darryl,UT,63636,Debit Card,2357.68
+64,14185,2025-07-21,Shipped,314 Smith Pike,Dominguezstad,NH,14589,Online Transfer,911.56
+65,18409,2025-03-02,Cancelled,49726 Bryan Ways,Taylorchester,MA,81633,UPI,2731.04
+66,24552,2025-03-24,Delivered,0345 Dougherty Ranch,Jennifermouth,MD,90311,Debit Card,694.49
+67,10215,2025-02-03,Shipped,941 Kidd Gardens,West Clayton,DE,27094,Credit Card,114.30000000000001
+68,23714,2025-07-11,Shipped,833 Moore Valleys Suite 910,Mccallfurt,OH,42367,UPI,1885.08
+69,7877,2025-02-19,Processing,066 Chris Mission,East Shawnton,CO,35088,Debit Card,3107.56
+70,12269,2025-02-08,Processing,906 Singh Square,West Biancatown,RI,54113,UPI,3134.4700000000003
+71,10316,2025-07-11,Delivered,71115 Cassandra Pass,Lake Jenniferhaven,FL,95842,Debit Card,2599.2300000000005
+72,18775,2025-04-24,Cancelled,1941 Costa Lodge Apt. 481,North Scottville,MH,81250,Credit Card,3219.7000000000003
+73,319,2025-05-05,Cancelled,766 Brianna Ranch,South Colinview,ND,41677,Debit Card,1031.1100000000001
+74,13477,2025-01-18,Cancelled,843 Fisher Rest,Karenstad,TX,13893,Debit Card,2804.87
+75,6612,2025-07-21,Pending,983 Kristin Greens Suite 360,East Jacobchester,MT,59766,UPI,3161.1099999999997
+76,10148,2025-01-18,Cancelled,34732 Douglas Overpass Apt. 259,Crystalport,NJ,26224,Credit Card,2581.01
+77,4579,2025-05-08,Pending,063 Rogers Terrace,North Daniel,DC,47087,UPI,4687.530000000001
+78,3523,2025-05-29,Processing,805 Herman Squares Apt. 901,West Maryview,ND,40960,Online Transfer,1055.04
+79,6131,2025-07-21,Cancelled,7701 Jimmy Place,Lake Amanda,AR,37138,Cash,581.38
+80,23899,2025-05-07,Shipped,76811 John Passage Suite 659,Lindsayfort,WA,90806,Debit Card,1979.5
+81,24186,2025-02-25,Processing,993 Adam Ridges Apt. 025,New Robert,NV,70760,Credit Card,383.59000000000003
+82,19240,2025-02-14,Cancelled,34013 Steven Freeway,Williamsberg,ND,43066,UPI,221.71
+83,24006,2025-01-31,Cancelled,0937 James Cape Suite 419,North Jasonside,WA,58563,UPI,1096.68
+84,4775,2025-03-08,Pending,112 Joel Mall Apt. 607,Myersfurt,FL,88013,UPI,2442.8900000000003
+85,18646,2025-05-06,Shipped,400 Miller Flats,Wellsmouth,AL,45257,Cash,441.40000000000003
+86,2688,2025-01-15,Pending,48431 Carolyn Brook Suite 620,Jessicafurt,RI,20808,Cash,1396.96
+87,6765,2025-02-17,Shipped,13375 Melissa Vista,West Susan,FL,94592,Credit Card,933.2400000000001
+88,16731,2025-06-10,Pending,9487 Thomas Shore,Sandraborough,PR,40674,Online Transfer,1445.75
+89,11892,2025-06-09,Delivered,46969 Peggy Expressway Suite 063,Paulbury,UT,74754,Online Transfer,3412.21
+90,4768,2025-02-24,Pending,61537 Lowe Plaza Suite 827,Gonzalesshire,AZ,07506,Debit Card,652.98
+91,17437,2025-07-18,Pending,20921 Wright Burgs,Kirbyfort,WI,99500,Debit Card,3478.1
+92,635,2025-06-24,Processing,217 Matthew Port Apt. 619,South Rubenton,GU,94661,Debit Card,316.2
+93,20737,2025-05-01,Shipped,666 Shannon View,West Jacob,TN,82681,UPI,4115.179999999999
+94,1044,2025-06-22,Delivered,32476 Johns Pines Suite 922,Hendersontown,WV,71200,Cash,4100.03
+95,21598,2025-04-30,Shipped,157 Medina Loaf,Smithland,GU,41639,Online Transfer,1357.58
+96,12282,2025-03-23,Shipped,826 Fuller Square,North Teresa,GA,49619,UPI,1773.8000000000002
+97,13771,2025-07-28,Cancelled,7500 Alvarado View Suite 101,Perezland,TN,45081,Cash,1678.54
+98,24183,2025-06-20,Pending,622 Flynn Mountain,East Stephenview,AK,18637,UPI,2023.26
+99,16413,2025-04-19,Cancelled,244 Neal Mews Suite 827,Taylortown,NC,05677,UPI,3411.92
+100,9068,2025-04-19,Cancelled,113 Cynthia Prairie,Lake Christine,NH,14440,Cash,1689.06
+101,19465,2025-07-30,Shipped,372 Floyd Locks,Johnside,PW,50426,UPI,891.8399999999999
+102,24522,2025-01-28,Pending,3201 Gonzalez Ramp Suite 898,Melissachester,SC,71647,Cash,629.25
+103,19249,2025-05-10,Shipped,85311 Hogan Ridges,Lake Kristybury,RI,47654,Cash,750.87
+104,23420,2025-04-18,Shipped,4332 Michael Road Suite 023,New Patriciamouth,PR,66503,Credit Card,3954.48
+105,11904,2025-02-24,Delivered,46378 Timothy Turnpike,New Arthur,AZ,80868,Debit Card,2707.55
+106,23505,2025-07-15,Cancelled,0224 Mcgee Trafficway Apt. 652,Lisachester,DC,89102,Cash,3459.91
+107,12280,2025-05-05,Processing,631 Mack Heights,Juliemouth,MH,17761,Cash,1222.77
+108,21623,2025-03-26,Cancelled,046 Wheeler Forks Apt. 047,Timothyburgh,NC,06779,Online Transfer,3696.43
+109,13699,2025-05-08,Processing,9362 Justin Parks,North Alishaville,OK,48296,Credit Card,2155.52
+110,12269,2025-04-23,Cancelled,906 Singh Square,West Biancatown,RI,54113,UPI,1867.14
+111,1346,2025-02-02,Processing,0094 Robert Cape,Kayleehaven,FL,87391,Credit Card,1965.48
+112,4349,2025-06-08,Pending,22709 Schmidt Falls,Justinside,TN,29462,Debit Card,2175.6800000000003
+113,11583,2025-04-10,Pending,800 Morris Squares,Peterchester,FL,29030,Online Transfer,3257.86
+114,5204,2025-02-02,Cancelled,8296 Weber Neck Suite 287,Hollandport,CT,74296,UPI,582.99
+115,8839,2025-07-12,Shipped,95506 Zachary Extension,West John,WA,82812,Debit Card,3002.56
+116,17576,2025-02-15,Cancelled,50303 Andrea Fort,Port Walterchester,NC,07526,Credit Card,1459.72
+117,11997,2025-03-16,Delivered,263 Yvonne Key,Williamsside,ND,98581,Credit Card,2226.31
+118,23277,2025-02-22,Shipped,287 Peck Drives Apt. 817,Jenniferfurt,FL,40448,UPI,144.27
+119,17043,2025-07-29,Cancelled,2088 Ryan Mews Apt. 659,Johnsonburgh,NV,23824,Online Transfer,1852.5500000000002
+120,8577,2025-08-09,Cancelled,206 Ayala Rest,New Katherinehaven,HI,73475,UPI,104.68
+121,5018,2025-05-07,Cancelled,701 Henderson Mission Suite 301,Charlesside,AZ,82254,Credit Card,2554.8199999999997
+122,14777,2025-06-16,Pending,5027 John Points,Patrickbury,IL,08606,UPI,156.69
+123,4980,2025-01-24,Cancelled,3473 Green Springs Apt. 901,Holmesville,ND,37327,Cash,1361.9
+124,14375,2025-04-02,Shipped,06274 Kenneth Estate,Fritzchester,MP,44573,Cash,615.5999999999999
+125,21344,2025-03-29,Cancelled,387 Rebecca Greens Suite 167,Port Donna,ND,19237,Online Transfer,1491.0
+126,21403,2025-05-07,Cancelled,9550 Sabrina Crescent,North Patricia,MS,13957,Debit Card,592.97
+127,12046,2025-02-03,Processing,0974 White Orchard,Wesleyside,ND,67416,Online Transfer,3892.0800000000004
+128,20614,2025-01-31,Pending,49847 Tracy Lane Suite 700,East Rebeccamouth,UT,78152,UPI,2982.0899999999997
+129,12301,2025-07-25,Delivered,538 Landry Fields,Patriciaton,IL,37433,Online Transfer,2621.09
+130,21291,2025-03-07,Pending,20680 Mark Valleys Apt. 107,Jonesberg,AS,56838,Debit Card,3267.79
+131,4434,2025-01-02,Delivered,3289 Sarah Land Apt. 219,Heatherhaven,SD,20367,Cash,2259.48
+132,17741,2025-02-07,Processing,264 Donald Bridge,Lewisburgh,PR,13863,UPI,1240.98
+133,4458,2025-04-22,Cancelled,40571 Rickey Path,Lake Oliviaside,IN,79247,Credit Card,1244.32
+134,17008,2025-07-21,Delivered,9046 Jacob Village,East Christopher,AR,05147,Credit Card,540.03
+135,10886,2025-07-02,Delivered,7644 Robert Mill,Justinfurt,PW,82638,Cash,420.33
+136,169,2025-05-11,Cancelled,524 Jacob Run Suite 096,Port Justinmouth,IA,51674,Credit Card,846.3900000000001
+137,24932,2025-03-04,Cancelled,7931 Morrison Mountain,Jessicaport,AZ,35847,Online Transfer,3977.4
+138,4070,2025-03-23,Shipped,40121 Smith Lock Suite 889,Lopezview,OH,80929,UPI,363.52
+139,4358,2025-06-02,Pending,624 Katie Lodge,Martinview,VA,40153,Online Transfer,241.64
+140,9331,2025-07-05,Pending,65685 Brett Freeway,Andersonshire,MT,75515,Cash,2427.03
+141,1911,2025-01-09,Delivered,25011 Bennett Hill Suite 835,Simonburgh,CA,47272,UPI,2114.07
+142,6508,2025-06-23,Pending,7854 Jason Turnpike,New Tommy,WV,42608,UPI,1308.62
+143,19943,2025-03-07,Cancelled,677 Lewis Gateway Suite 882,Boyerside,CT,37800,Credit Card,422.92
+144,21814,2025-02-27,Shipped,604 Solomon Stream Suite 575,Lake Christopher,NH,48811,Cash,1333.95
+145,14627,2025-06-23,Processing,2203 Bishop Drive,South Stephanie,NC,04871,Debit Card,3240.9900000000002
+146,16315,2025-04-16,Pending,9743 Acosta Estates,West Richard,ND,47973,Credit Card,1569.0900000000001
+147,9309,2025-01-23,Pending,1123 Rebecca Spring Apt. 784,South William,MT,03566,UPI,2097.69
+148,18046,2025-02-11,Shipped,5740 Aaron Pines Apt. 082,Leeton,OR,03963,Cash,659.12
+149,14113,2025-01-23,Cancelled,2911 Walker Creek Suite 264,Simsborough,MO,26991,UPI,1070.19
+150,14182,2025-05-08,Cancelled,29183 Morgan Extensions,East Robertside,CT,75292,Cash,1098.6
+151,6384,2025-05-05,Cancelled,397 Ayers Walk,Scottmouth,RI,91796,Credit Card,2775.96
+152,20008,2025-07-30,Processing,643 Dustin Lodge,Matthewland,NJ,48274,Credit Card,2893.5600000000004
+153,1370,2025-02-15,Shipped,39103 Blackburn Isle Suite 801,West Katelyn,WY,13953,Online Transfer,2542.8999999999996
+154,3342,2025-03-06,Delivered,382 Little Avenue Suite 550,Port Calvinmouth,CA,91879,UPI,559.52
+155,19435,2025-06-28,Shipped,1657 Kenneth Rue Apt. 600,East Andrewstad,IL,98300,UPI,4008.5599999999995
+156,18800,2025-06-23,Cancelled,74075 Wilson Mount Apt. 847,Lake Alan,NV,25987,Online Transfer,3333.2200000000003
+157,3501,2025-02-28,Shipped,6164 Patrick Cliff,Annetteborough,CO,37989,Cash,3460.8199999999997
+158,20290,2025-03-14,Shipped,2230 Michael Wall,Jacobside,TN,06811,Cash,1821.8999999999999
+159,23601,2025-07-13,Delivered,98063 Lisa Expressway,New Renee,FL,82565,Credit Card,680.26
+160,18400,2025-01-04,Delivered,09466 James Streets,West Linda,MH,27187,Credit Card,3684.61
+161,23721,2025-08-01,Cancelled,3140 Leblanc Via,New Joel,SD,62843,Cash,1074.78
+162,9112,2025-04-21,Processing,8447 Conway Isle Apt. 585,East Michaelport,SC,02657,Online Transfer,1555.54
+163,11443,2025-04-15,Processing,231 Johnson Shoal Apt. 532,East Christinestad,MH,75519,UPI,960.04
+164,15860,2025-06-23,Cancelled,8931 Mclaughlin View,East Jeremymouth,VI,54383,Online Transfer,35.79
+165,9085,2025-02-26,Cancelled,69108 Carolyn Mountains,Colemanbury,PR,99855,Online Transfer,969.8399999999999
+166,22116,2025-08-13,Processing,02573 Jacob Keys Suite 370,East Brittanybury,ID,79093,Cash,1253.59
+167,2232,2025-02-11,Pending,6240 Angela Groves Apt. 201,Shepherdberg,CA,59098,Online Transfer,2115.17
+168,4457,2025-06-21,Processing,19847 French Islands,Port Kaitlin,DC,48234,Credit Card,549.48
+169,11223,2025-07-23,Delivered,12814 Bonilla Curve,Walkerborough,IA,27485,Online Transfer,173.6
+170,5814,2025-08-17,Delivered,25503 Harris Inlet Apt. 463,Rodriguezhaven,MO,05220,Cash,2390.3500000000004
+171,7210,2025-04-22,Processing,01599 Frye Lake,West John,WI,49493,UPI,1244.08
+172,3854,2025-04-13,Cancelled,706 Lauren Divide,Matthewtown,VI,43246,UPI,991.19
+173,19941,2025-04-09,Shipped,74623 Jerome Ports Apt. 940,Lake Jesus,PA,19731,UPI,1801.6
+174,17290,2025-08-03,Pending,186 Jacob Wall,New Kimberlyfurt,OK,55317,Online Transfer,2126.6400000000003
+175,23746,2025-07-20,Shipped,13784 Michael Mountain,Port Katrinabury,WA,17176,UPI,1115.05
+176,20284,2025-03-04,Delivered,0127 Foster Throughway,Cookebury,AS,95888,Cash,1053.48
+177,11815,2025-05-26,Processing,1183 Jessica Field Apt. 944,New Pamela,KS,70578,Cash,3862.8
+178,24529,2025-04-27,Shipped,6926 Thomas Crescent,East William,SC,78596,UPI,2125.19
+179,17768,2025-04-30,Pending,32704 Jeremy Hollow,New Justin,PW,77385,Credit Card,3795.57
+180,5067,2025-04-16,Processing,52685 Daniels Dale,North Spencer,VT,74685,Debit Card,1838.44
+181,2734,2025-01-28,Cancelled,75618 Emily Cove Apt. 173,North Cody,VT,25729,Credit Card,673.68
+182,8001,2025-03-09,Pending,05268 Barber Park,East Michael,MO,39257,Debit Card,634.6
+183,18597,2025-05-24,Pending,68218 Elliott Forks Suite 449,South Dianaland,OH,57824,Cash,1182.0
+184,23653,2025-03-28,Processing,00764 Franklin Burgs Suite 929,East Jerrymouth,CT,14515,Cash,588.9499999999999
+185,20328,2025-03-07,Cancelled,53896 Short Green Suite 831,Martinezside,MS,41984,Credit Card,2962.92
+186,10369,2025-08-19,Shipped,62500 Gonzales Knoll,Rogerberg,NM,79819,Cash,1441.77
+187,17215,2025-06-16,Pending,12204 Thompson Plains,Nicholastown,WA,38086,Credit Card,3649.8300000000004
+188,22302,2025-01-23,Processing,633 Blevins Keys,North Stevenborough,PW,27097,Debit Card,2096.4700000000003
+189,7576,2025-07-07,Shipped,62757 Thomas Station,Port Melvin,FM,74607,Debit Card,3580.95
+190,7875,2025-05-25,Delivered,2093 Huffman Fords Apt. 205,East Melissaburgh,GU,42966,Debit Card,1866.79
+191,22856,2025-07-01,Shipped,6822 Wagner River,New Jasmineton,CA,84568,Online Transfer,1529.56
+192,14688,2025-08-14,Delivered,7587 Garcia Glens,South Jenniferton,MA,48105,Credit Card,5925.1
+193,6073,2025-04-17,Processing,775 Heather Forest Suite 658,North Deborah,KS,79296,Online Transfer,254.39
+194,23616,2025-01-13,Processing,331 William Neck,Petersonview,TX,31101,Online Transfer,5036.65
+195,10217,2025-06-05,Cancelled,3875 Cunningham Pike,East Ricky,NJ,10219,UPI,2676.34
+196,13811,2025-02-13,Processing,537 David Squares,Crossside,IA,77218,Online Transfer,1648.3200000000002
+197,10194,2025-07-01,Processing,111 Ashley Fork Apt. 429,Halebury,MH,89320,Credit Card,209.04
+198,4075,2025-03-24,Pending,49328 Taylor Crossing Suite 537,Carrhaven,NH,95135,Debit Card,786.9300000000001
+199,5407,2025-08-15,Pending,378 Connie Crest,Port Franciston,NY,77238,UPI,2480.9
+200,14863,2025-05-02,Shipped,66707 Joshua Centers Apt. 031,Ashleymouth,MH,77466,UPI,1389.74
+201,24741,2025-03-17,Cancelled,13750 Goodwin Mission,Nicoleberg,WA,27657,Debit Card,1301.4
+202,11792,2025-03-07,Cancelled,27200 Green Port Apt. 898,New Brenda,NY,45377,Cash,1776.4299999999998
+203,7880,2025-06-08,Processing,80248 Heather Common Suite 418,Maryborough,AZ,98183,Online Transfer,1606.88
+204,2529,2025-01-17,Shipped,067 Ashley Street,Munozmouth,HI,89562,Credit Card,1592.98
+205,11060,2025-01-09,Cancelled,893 Smith Drive,Diazstad,NE,18629,UPI,3327.65
+206,1822,2025-02-01,Shipped,7643 Brown Streets,West Kathryn,DE,31295,Debit Card,1864.3700000000001
+207,15267,2025-03-28,Processing,232 Marsh Light Apt. 371,Lawrencebury,MT,86497,Credit Card,1546.27
+208,24939,2025-07-09,Delivered,61749 Devin Camp,Port Aprilfort,AK,64099,Cash,2841.2
+209,19041,2025-04-10,Shipped,09042 Darryl Club Suite 673,Port Monicaville,AR,27354,Cash,606.24
+210,17577,2025-04-06,Shipped,2883 Watkins Shoals,Yodertown,NJ,62998,UPI,3089.53
+211,24211,2025-03-09,Processing,4114 Kenneth Land Suite 325,Taylorville,CT,93693,Credit Card,1294.88
+212,21434,2025-08-13,Processing,7591 Scott Lights Suite 755,Angelahaven,VI,22778,Online Transfer,1217.14
+213,22527,2025-05-14,Shipped,63445 Lee Meadow,New Teresa,ND,57666,Credit Card,2874.3599999999997
+214,8680,2025-05-01,Shipped,3971 Justin Passage Apt. 211,Peckfort,ND,06061,UPI,453.12
+215,21464,2025-02-09,Cancelled,44996 Cristian Loaf,North Samantha,AL,88267,UPI,6432.05
+216,22893,2025-05-08,Delivered,5402 Russell Streets,Davidland,PR,39666,Online Transfer,3216.61
+217,10475,2025-03-15,Delivered,1634 Evans Stravenue Suite 870,Kaylaside,NC,47805,Cash,772.01
+218,20147,2025-06-05,Shipped,601 Shirley Lock Suite 557,South Katrina,GU,69511,Debit Card,1304.46
+219,8279,2025-08-05,Processing,48494 Hannah Port Suite 167,West Jill,NV,19765,UPI,61.72
+220,11617,2025-02-14,Delivered,673 Smith Points Suite 386,Port Andrew,GA,59825,Credit Card,2905.14
+221,14988,2025-05-15,Delivered,014 Jacobs Trace,Rodriguezburgh,AR,54435,Credit Card,29.23
+222,10057,2025-05-01,Processing,361 Jay Prairie Suite 534,West Andreachester,FM,70327,UPI,3808.04
+223,17481,2025-04-21,Pending,6940 Kimberly Rapid,Port Jason,CO,70077,Credit Card,2764.94
+224,214,2025-06-14,Cancelled,510 Lisa Manors,Maryhaven,CA,06732,Debit Card,640.3199999999999
+225,16699,2025-01-04,Shipped,922 May Grove Apt. 820,Josephchester,HI,27032,Online Transfer,860.79
+226,13218,2025-06-26,Pending,3223 Hicks Mountains Suite 850,Taylorhaven,TN,08659,Debit Card,2770.19
+227,135,2025-03-16,Processing,28002 Rogers Divide Suite 245,Trevinoshire,RI,09075,Cash,3971.9
+228,17166,2025-04-24,Delivered,396 Rodriguez Parks Suite 811,Port Robertland,UT,14503,UPI,822.4499999999999
+229,4748,2025-06-17,Shipped,21308 Shannon Mount,Rossbury,DC,19803,Debit Card,1445.43
+230,13948,2025-05-26,Shipped,854 Martin Centers Apt. 373,Jacksonland,PR,48620,Cash,4379.48
+231,17490,2025-01-02,Pending,06831 Adrian Courts,Lake Amber,WV,42533,Debit Card,909.48
+232,10215,2025-05-08,Delivered,941 Kidd Gardens,West Clayton,DE,27094,UPI,1303.06
+233,21294,2025-02-25,Shipped,5136 Cathy Rapid,Gilmoremouth,PA,41295,Online Transfer,351.75
+234,13921,2025-06-29,Cancelled,915 Romero Point Suite 260,Lake Andrehaven,WY,21044,Credit Card,3920.8599999999997
+235,9538,2025-02-25,Pending,7521 Carrillo Camp Apt. 388,East Stephanieville,PR,50754,Cash,4704.530000000001
+236,23996,2025-01-07,Processing,608 Jessica Street Apt. 675,Hansenland,PR,22535,Debit Card,1141.49
+237,15646,2025-07-15,Pending,3705 Klein Throughway,Lozanoland,CA,91172,Credit Card,2366.04
+238,23805,2025-03-24,Cancelled,5712 Valdez Circle,Alejandroberg,AK,68266,Cash,3972.7899999999995
+239,1656,2025-06-27,Processing,209 Kristen Neck,West Donnaview,IN,73718,Credit Card,3398.99
+240,18522,2025-04-28,Shipped,08000 Joseph Fall,East Jessica,KY,50442,Cash,491.94
+241,10352,2025-07-31,Pending,41031 Michael Shoals Suite 034,Cowanville,NJ,90747,Online Transfer,1252.3400000000001
+242,200,2025-03-21,Delivered,86773 Martin Drive Apt. 627,Hughesland,CT,42083,Credit Card,748.11
+243,21521,2025-06-28,Processing,912 Sheri Via,Colonhaven,SC,87952,Cash,2005.3100000000002
+244,4587,2025-01-21,Cancelled,49684 Gavin Lock Apt. 942,Jennifermouth,AR,15147,Credit Card,2243.48
+245,24212,2025-05-11,Cancelled,998 Davis Lights,East Deniseview,MO,65379,UPI,5519.1900000000005
+246,8013,2025-03-27,Cancelled,5861 Bethany Parkway Suite 761,Williamview,IN,59675,Debit Card,1392.1100000000001
+247,8544,2025-08-12,Delivered,731 Bartlett Vista Apt. 277,Johnsborough,MH,40988,Debit Card,3120.9100000000003
+248,21937,2025-06-05,Cancelled,2461 Miller Lights,North Matthew,ME,13516,Cash,310.85
+249,463,2025-03-02,Shipped,67905 Mooney Stravenue,North Barbaraport,ND,60533,UPI,686.89
+250,2572,2025-02-07,Cancelled,163 Linda Route,North Jodybury,DE,79643,Online Transfer,4577.18
+251,18765,2025-07-14,Cancelled,32488 Andrew Overpass Suite 159,North Pattychester,MD,87968,UPI,710.75
+252,8669,2025-04-08,Pending,9143 Karen Flat Suite 646,North Joshuamouth,DE,05815,Online Transfer,52.89
+253,15824,2025-06-15,Cancelled,9792 Sandra Orchard Suite 061,East Barryshire,OR,29500,UPI,3736.7
+254,3099,2025-04-19,Pending,3560 Johnson Row Suite 851,North Jennifer,CA,14469,Debit Card,1393.38
+255,13220,2025-04-28,Shipped,96580 Murray Estate Suite 500,New Joshua,CO,62626,Debit Card,1170.16
+256,10883,2025-04-12,Pending,997 Johnson Drive Apt. 970,East Troybury,UT,60601,Online Transfer,3970.9300000000003
+257,14781,2025-01-31,Delivered,2451 Daniel Parkway Suite 022,East Samantha,MT,41691,Cash,2651.81
+258,23061,2025-01-23,Shipped,00937 Thomas Station,Port Danielmouth,VA,12122,Debit Card,2206.13
+259,3992,2025-05-31,Delivered,1385 Rogers Islands,Nathanielmouth,TX,33038,Online Transfer,908.5
+260,6920,2025-07-29,Processing,068 Phillips Lake Suite 893,Port Robertland,TX,79207,Credit Card,2147.29
+261,1874,2025-03-21,Shipped,86045 Paul Springs,New Brianmouth,FL,29801,Debit Card,1954.64
+262,11527,2025-05-17,Shipped,54282 Briana Gardens,Josephstad,KY,63060,Online Transfer,1009.6400000000001
+263,4643,2025-07-26,Pending,3069 Wallace Mews Apt. 210,North Katherineport,MH,80711,UPI,1616.1799999999998
+264,17728,2025-04-26,Delivered,989 Perez Shores,Traciborough,NM,92501,Credit Card,1154.32
+265,3817,2025-06-22,Cancelled,25962 Holmes Forges,Port Reginaldhaven,MI,21852,Online Transfer,1542.48
+266,19208,2025-02-18,Delivered,008 Morris Motorway Apt. 322,Guerrastad,NH,56050,Credit Card,1390.62
+267,17229,2025-05-31,Processing,331 Yolanda Prairie,North Jacquelinemouth,NE,55152,Online Transfer,3413.0299999999997
+268,22424,2025-03-16,Pending,558 Henry Plains Suite 570,West Derek,DE,34232,Debit Card,901.36
+269,23310,2025-06-14,Shipped,19831 Anderson Row,South Mary,TN,92006,Cash,2527.41
+270,11725,2025-06-22,Shipped,61318 Robert Forges Apt. 380,Kennethside,ND,55915,Credit Card,960.3600000000001
+271,13551,2025-05-05,Delivered,447 Joseph Garden,Port James,OK,74464,Debit Card,392.95
+272,7228,2025-03-20,Cancelled,80199 Diaz Springs Suite 982,Keithtown,OH,46558,Credit Card,1416.4499999999998
+273,17823,2025-03-20,Delivered,4083 David Plains Apt. 136,Deborahfurt,IN,77290,Debit Card,2687.62
+274,4799,2025-01-04,Shipped,2154 Robert Shoal Apt. 443,Brownfort,DE,18346,Cash,1046.42
+275,11437,2025-05-24,Pending,42542 Pamela Summit,Kathyburgh,UT,21577,UPI,2992.76
+276,3462,2025-08-02,Processing,6428 Joshua Extensions Suite 765,Kellerhaven,SC,34274,UPI,282.12
+277,16172,2025-01-26,Shipped,8397 Darryl Springs,Port Charlesbury,MD,64574,Cash,2418.3
+278,18669,2025-08-05,Delivered,25854 Robinson Throughway Apt. 406,Lake Tina,MH,29066,Debit Card,1359.96
+279,318,2025-04-25,Cancelled,6167 William Villages,East David,TN,09662,Credit Card,3340.64
+280,3243,2025-07-25,Cancelled,36741 Yang Squares,Russellside,PW,01771,Online Transfer,292.12
+281,1167,2025-02-18,Delivered,212 Alexandria Ville,North Steven,VA,77021,UPI,2181.12
+282,7550,2025-06-20,Shipped,4764 Castro Canyon Suite 305,Wilsonville,TX,89491,Cash,2930.33
+283,2400,2025-04-24,Delivered,702 Teresa Island,New Markfurt,OR,87266,Cash,1014.5
+284,9714,2025-01-28,Delivered,0312 Ewing Pike Suite 010,Timothymouth,PA,08430,UPI,631.3
+285,21210,2025-01-14,Pending,1357 Donovan Inlet Suite 101,East Jacobfurt,MI,57610,Debit Card,2037.88
+286,18279,2025-01-29,Processing,83802 Connie Street Apt. 057,South Amybury,CA,94509,Online Transfer,824.1
+287,18710,2025-04-21,Delivered,451 Lewis Run,West Ethan,AK,43897,Online Transfer,3224.06
+288,2514,2025-04-06,Cancelled,48198 Laura Summit Suite 049,Port George,MT,84125,Credit Card,2192.79
+289,19224,2025-01-15,Shipped,57190 Miller Extensions,Bellton,AS,69052,Debit Card,2630.8
+290,11981,2025-02-08,Cancelled,71556 Sarah Harbors,New Ann,NH,01409,Cash,3328.1299999999997
+291,9865,2025-03-25,Cancelled,8057 Rodriguez Forges,West Alexisshire,SC,06158,Credit Card,4332.53
+292,18155,2025-02-19,Pending,278 Christian Pine Suite 274,Rogerton,UT,56500,Online Transfer,3089.7599999999998
+293,11078,2025-02-08,Delivered,849 Aguilar Pass,Pachecoshire,NE,99257,Online Transfer,2488.6800000000003
+294,16247,2025-07-13,Cancelled,7647 Pruitt Drive Apt. 173,Reginatown,AS,51651,UPI,4372.21
+295,17260,2025-05-26,Cancelled,41045 Martinez Rapid Suite 197,Jasonmouth,ME,85698,Online Transfer,558.84
+296,14124,2025-06-26,Processing,6106 Melissa Hollow Apt. 019,North Margaretborough,AK,17653,Debit Card,585.98
+297,1444,2025-04-26,Shipped,9080 Schultz Tunnel,West Chelsea,AR,44405,UPI,1442.28
+298,9141,2025-05-06,Pending,412 Lowe Estates,Port Theodore,ND,52090,Debit Card,1972.8500000000001
+299,2058,2025-01-02,Processing,37850 Ramirez Valleys Apt. 085,Lake Rhonda,NE,68074,Cash,388.81
+300,21041,2025-07-14,Cancelled,205 Hernandez Valleys Suite 671,West Abigailfurt,FM,64032,Online Transfer,2436.35
+301,13841,2025-01-14,Delivered,605 Mendez Trail Suite 587,East Kennethside,FL,10234,UPI,2244.9100000000003
+302,15224,2025-04-29,Shipped,241 Michelle Motorway Apt. 664,Jonesbury,NY,03408,Credit Card,2705.55
+303,10028,2025-04-08,Processing,6100 Frank Fall Suite 083,Hoodborough,WV,42357,Credit Card,1841.64
+304,18315,2025-01-04,Cancelled,4509 Olivia Plains Apt. 188,Annaton,MT,99079,Cash,933.71
+305,4105,2025-03-19,Processing,9697 Castro Pass,North Dianeville,SC,61788,Cash,1779.78
+306,2051,2025-02-01,Delivered,97289 Teresa Isle,Cindyberg,MH,40854,Cash,1166.73
+307,16781,2025-01-29,Processing,5782 Hernandez Tunnel,Jamesburgh,NJ,34853,Debit Card,1204.2599999999998
+308,7891,2025-08-08,Shipped,03782 Alejandro Lake Suite 795,Mcguireberg,NH,62695,UPI,2484.99
+309,13543,2025-04-03,Processing,092 Romero Cliffs,South Michellebury,HI,32802,Online Transfer,2273.59
+310,5979,2025-06-21,Pending,02324 George Keys,Paigetown,OH,54562,Cash,1302.18
+311,17616,2025-05-18,Shipped,25445 Anne Extensions Suite 105,Lake Taylorhaven,OR,31668,Cash,1075.74
+312,38,2025-01-12,Shipped,27040 Tracey Street,Carlosside,MH,07685,Cash,585.5
+313,12157,2025-05-22,Cancelled,058 Monica Pine,East Meganside,SC,09392,Debit Card,1736.53
+314,15834,2025-02-09,Processing,92516 Anne Alley Suite 852,Jamesburgh,WY,76546,Cash,833.98
+315,13091,2025-03-01,Shipped,305 Bailey Cliffs Suite 496,East Amanda,IL,30989,Cash,1784.3500000000001
+316,20794,2025-03-03,Pending,6034 Scott Plain Apt. 846,Lopezfort,MO,97643,UPI,3810.62
+317,17372,2025-05-23,Pending,5615 Alicia Track Apt. 430,East Amberton,NE,19006,UPI,1424.6100000000001
+318,21295,2025-08-04,Shipped,0956 Melissa Stravenue Apt. 563,Kellymouth,VT,22597,UPI,2272.3900000000003
+319,350,2025-07-07,Delivered,37813 Daugherty Trace,New Duanestad,GU,22433,UPI,2495.5
+320,24532,2025-02-10,Shipped,1853 Richard Station Apt. 450,North Andreton,DE,07438,UPI,1691.45
+321,584,2025-01-18,Processing,69063 Moon Row,Thompsonview,WY,40845,Online Transfer,555.86
+322,4798,2025-02-15,Shipped,2542 Jonathan Ville,Whiteshire,IN,09391,UPI,2650.27
+323,4799,2025-03-02,Pending,2154 Robert Shoal Apt. 443,Brownfort,DE,18346,Online Transfer,3939.38
+324,8195,2025-04-12,Pending,373 Margaret Dale Apt. 213,East Christopherside,MH,81889,UPI,1810.9299999999998
+325,15411,2025-02-14,Processing,33038 Miller Row,Littlehaven,SD,27150,Online Transfer,2751.3
+326,1665,2025-03-18,Processing,73963 Michael Falls,Martinfort,VA,99422,Online Transfer,2564.94
+327,18449,2025-01-22,Pending,33144 Elizabeth Pike Apt. 738,New Brentberg,UT,82983,Cash,2572.74
+328,16405,2025-07-23,Shipped,27940 Fry Stravenue,North Crystalstad,WI,09880,UPI,4484.55
+329,18267,2025-01-29,Processing,086 Debra Divide Apt. 243,Lisafort,OH,55655,Credit Card,2894.89
+330,5354,2025-06-21,Processing,09390 Vaughn Parkways Suite 341,Port Jeffmouth,OK,88293,UPI,2584.44
+331,23791,2025-01-11,Cancelled,1332 Reid Trail Apt. 713,Lake Valeriemouth,AK,26946,Debit Card,997.52
+332,16109,2025-07-26,Pending,149 Crystal Springs Apt. 482,Perryhaven,CO,96762,UPI,1896.75
+333,15567,2025-05-24,Cancelled,551 William Wells Apt. 215,Colemanton,PA,04134,Debit Card,5322.69
+334,11790,2025-01-13,Shipped,57810 Ashley Lodge Apt. 165,Andersonland,VT,46878,Debit Card,3512.3399999999997
+335,24627,2025-05-26,Cancelled,699 Green Streets Suite 018,South Anthonyton,SC,75145,UPI,104.9
+336,18587,2025-04-24,Processing,03414 Johnson Common,Fernandeztown,ID,14222,Credit Card,1807.78
+337,8529,2025-02-17,Pending,93166 Mcintosh Crest,West Karina,FL,45664,Cash,1220.74
+338,3937,2025-02-15,Shipped,7770 Jennifer Ramp,Jesushaven,VI,94291,UPI,1254.74
+339,19754,2025-04-19,Processing,86193 Shelton Lights Apt. 773,West Jennifer,HI,61106,Debit Card,820.98
+340,21103,2025-06-26,Shipped,7589 Trevor Lodge Apt. 316,Port Joseph,MN,71742,Debit Card,3218.95
+341,7813,2025-07-31,Processing,7297 Christopher Station,Ericabury,DC,29115,UPI,3791.5899999999997
+342,7489,2025-04-30,Shipped,9479 Wilson Mount,Robinsonburgh,UT,38044,Cash,437.66999999999996
+343,19720,2025-06-13,Cancelled,1371 Patterson Park Apt. 780,East Reginahaven,AK,89161,Cash,2604.3199999999997
+344,15988,2025-05-26,Shipped,401 Pena Prairie Apt. 003,North Loganton,KY,84576,UPI,2824.98
+345,9611,2025-03-29,Delivered,779 Kathryn Land,New Allison,IN,69227,Cash,1068.4099999999999
+346,20436,2025-08-06,Cancelled,6244 Higgins Roads,Devinport,CA,74384,Credit Card,3559.13
+347,4579,2025-06-11,Processing,063 Rogers Terrace,North Daniel,DC,47087,Debit Card,1673.08
+348,17846,2025-05-08,Cancelled,0400 Debra Fields Apt. 123,Joshuaborough,NJ,25932,UPI,454.75
+349,22764,2025-04-20,Cancelled,10907 Christina Forge Apt. 308,East Debra,NY,23337,Credit Card,1419.93
+350,12920,2025-01-30,Pending,286 Jamie Streets Apt. 486,Mackchester,MN,48851,Debit Card,1956.3999999999999
+351,12895,2025-03-28,Processing,40896 Owens Vista Apt. 513,Jessicafurt,AS,66829,Cash,1077.81
+352,10875,2025-04-29,Shipped,001 Christopher Mission,Lake Christina,HI,30662,Credit Card,3422.47
+353,23334,2025-08-08,Delivered,313 Pamela Shores,East Ryan,MI,53401,Credit Card,3146.44
+354,9381,2025-04-30,Shipped,2620 Stuart Light,South Brandontown,PA,90365,Debit Card,2770.2
+355,3496,2025-08-09,Delivered,53332 Lewis Stravenue Apt. 671,East Shaneberg,NM,42203,Cash,829.98
+356,11154,2025-08-02,Pending,8096 Eric Square,Janetton,NV,56420,Cash,867.1500000000001
+357,15824,2025-01-25,Cancelled,9792 Sandra Orchard Suite 061,East Barryshire,OR,29500,Cash,2038.3400000000001
+358,10662,2025-02-17,Pending,01709 Haynes Glen Apt. 840,Nicholasmouth,NH,49633,Debit Card,1311.06
+359,4821,2025-07-07,Cancelled,21016 Renee Street Suite 477,Lake Cynthia,AK,14237,Debit Card,487.12
+360,1659,2025-05-01,Delivered,843 Derek Ramp Suite 512,Meganport,CA,36710,Online Transfer,253.15
+361,22797,2025-06-30,Delivered,009 David Court,New Sandra,WV,40740,Credit Card,2088.34
+362,12731,2025-07-31,Processing,2291 Green Greens,New Paul,PR,80003,Cash,1585.33
+363,14841,2025-04-19,Pending,58222 Hayes Summit Suite 496,Melissabury,PA,34245,Credit Card,2112.3
+364,17284,2025-01-05,Shipped,64240 Martinez Ports,North Toni,UT,27143,Debit Card,1957.1
+365,24419,2025-07-02,Cancelled,05902 Alexander Extensions Apt. 773,East Thomasstad,MN,68183,Online Transfer,1017.3
+366,7215,2025-06-21,Processing,74924 Lambert Summit,East Gregmouth,GA,12650,Cash,2098.27
+367,12795,2025-01-09,Processing,585 Goodwin Bypass Apt. 202,New Jessicaport,NM,44083,Debit Card,3659.6800000000003
+368,4771,2025-08-18,Shipped,0181 Hunt Shores Suite 943,East Jenniferfurt,NC,90383,Credit Card,2037.93
+369,17007,2025-05-22,Pending,7397 Sarah Glens,North Edwardbury,NJ,62711,UPI,2394.1600000000003
+370,7092,2025-01-13,Shipped,00490 Rubio Terrace,Juliaburgh,NY,82504,Debit Card,3547.98
+371,20964,2025-04-29,Shipped,03094 David View,Salazarfurt,CA,40872,Debit Card,1747.92
+372,22226,2025-02-23,Delivered,5624 Robles Circle Apt. 505,Vangview,IA,78747,UPI,3988.5499999999997
+373,21168,2025-05-08,Pending,1379 Clarence Hollow,Rodriguezburgh,VA,78168,Online Transfer,3289.0
+374,20566,2025-04-03,Delivered,395 Price Dale Apt. 709,West Corey,MA,33249,Credit Card,1804.48
+375,22458,2025-07-11,Processing,84400 Kennedy Trail Apt. 681,Hancockchester,NE,80774,Online Transfer,3162.4399999999996

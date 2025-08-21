@@ -1,0 +1,21 @@
+employee_id,first_name,last_name,email,phone_number,hire_date,job_title,salary,manager_id
+1,Katrina,Edwards,employee_0_20250821115331_1588@pham.com,7810737046,2020-10-23,CEO,72533.4561584447,
+2,Matthew,Adams,employee_1_20250821115331_9044@moses.org,8323403765,2002-05-16,Vet Technician,32960.44773301345,1
+3,Christopher,Fitzgerald,employee_2_20250821115331_9920@gomez.biz,3304682010,2007-04-13,Groomer,90804.3919470878,1
+4,Megan,Moore,employee_3_20250821115332_8791@baker-carter.com,9892794441,2020-05-12,Sales Associate,62560.7729214172,1
+5,April,Huber,employee_4_20250821115332_2385@pratt.biz,1249822259,2019-03-15,Manager,65176.104927549444,1
+6,Gregory,Fox,employee_5_20250821115332_4300@kramer-brown.net,3153686234,2004-06-20,Sales Associate,45306.99707302256,1
+7,Elizabeth,Garrett,employee_6_20250821115332_8670@gates-patterson.com,5587043468,2001-10-18,Groomer,83819.80532347012,1
+8,Thomas,Martin,employee_7_20250821115332_7209@schwartz-ward.com,1326616041,2005-12-22,Manager,99367.97278405099,1
+9,Alison,Sullivan,employee_8_20250821115332_4108@jones.com,5694483026,2016-05-11,Vet Technician,88147.43075632,1
+10,Jean,Stone,employee_9_20250821115332_4435@osborne-porter.org,7196178806,2001-04-24,Warehouse Staff,57410.81325925124,1
+11,John,Fox,employee_10_20250821115332_9241@barr-alexander.biz,9408055866,2010-05-25,Sales Associate,91004.70880000122,1
+12,Shelley,Ward,employee_11_20250821115332_1827@cunningham.com,9680574922,2009-01-24,Vet Technician,40501.53167029108,1
+13,Carolyn,Davis,employee_12_20250821115332_4523@mcgee-suarez.com,7578769244,2022-10-06,Customer Service Rep,74401.06260647654,1
+14,Margaret,Taylor,employee_13_20250821115332_9231@mills-ferguson.org,7245307428,2012-10-25,Customer Service Rep,41063.29388138921,1
+15,Jerry,Wolf,employee_14_20250821115332_3294@hunter.biz,7897622014,2021-09-16,Manager,97545.36749383167,1
+16,Ryan,Burton,employee_15_20250821115332_3165@smith-smith.biz,3615178545,2018-07-23,Manager,98373.08978229786,1
+17,Jeremy,Sexton,employee_16_20250821115332_9240@fitzpatrick.biz,9283877492,2017-01-20,Customer Service Rep,72514.90469897032,1
+18,Richard,Miller,employee_17_20250821115332_9879@rose-hughes.com,8925349063,2014-09-28,Sales Associate,65802.4572181605,1
+19,Benjamin,Livingston,employee_18_20250821115332_7607@stephens.net,7142583227,2014-08-03,Customer Service Rep,88429.10757888165,1
+20,Matthew,Myers,employee_19_20250821115332_2763@thompson.net,5031842197,2014-04-06,Groomer,50932.66412073294,1
